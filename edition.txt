@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "Team upgraded" 
 "Hotfix my solution" 
+=======
+"New function added" 
+>>>>>>> new_feature
+"Hotfix team's solution" 
